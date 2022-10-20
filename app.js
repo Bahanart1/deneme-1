@@ -1,0 +1,1 @@
+const yas = document.getElementById("yas").value;
